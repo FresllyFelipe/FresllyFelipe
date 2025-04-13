@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FresllyFelipe
-- 👀 I’m interested in SQL and Python
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested in SQL, Python and Data Visualization
+- 🌱 I’m currently working with SQL, Python, Power Bi, Tableau, Looker, etc.
 - 💞️ I’m looking to collaborate on all the community
 - 📫 How to reach me: Challange me!
 
